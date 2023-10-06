@@ -4,6 +4,6 @@ DASHBOARD LINK ; https://public.tableau.com/views/JOTHikaproject2_16964252415460
 
 VIDEO LINK ;  https://youtu.be/hGM3FPeQREA?si=y9Mbmx9v2s5Z1Ejg
 
-STORY LINK ;
+STORY LINK ; https://public.tableau.com/app/profile/jothika.jothika/viz/JOTHikaproject2_16964252415460/Story1
 
 GOOGLE DRIVE LINK ;https://drive.google.com/drive/my-drive
